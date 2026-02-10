@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="128" alt="Marcus Sync icon">
+</p>
+
 # Marcus Sync
 
 **Reminders to Markdown for macOS**
