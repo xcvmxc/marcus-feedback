@@ -1,8 +1,10 @@
-<img src="icon.png" width="128" alt="Marcus Sync icon" style="border-radius: 22%;">
-
 # Marcus Sync
 
 **Reminders to Markdown for macOS**
+
+[![Landing Page](https://img.shields.io/badge/Landing_Page-7B68EE?style=for-the-badge&logoColor=white)](https://allinc.ai/marcus)
+[![Request a Feature](https://img.shields.io/badge/Request_a_Feature-FF9F00?style=for-the-badge&logoColor=white)](https://github.com/xcvmxc/marcus-feedback/issues/new?template=feature_request.yml)
+[![Report a Bug](https://img.shields.io/badge/Report_a_Bug-FF9F00?style=for-the-badge&logoColor=white)](https://github.com/xcvmxc/marcus-feedback/issues/new?template=bug_report.yml)
 
 Marcus Sync lives in your menu bar and syncs Apple Reminders to any Markdown file — perfect for Obsidian, Logseq, or any text-based productivity system.
 
