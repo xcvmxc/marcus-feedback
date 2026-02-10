@@ -2,9 +2,9 @@
 
 **Reminders to Markdown for macOS**
 
-<a href="https://allinc.ai/marcus"><img src="https://img.shields.io/badge/Landing_Page-7B68EE?style=for-the-badge&logoColor=white" height="56" alt="Landing Page"></a>
-<a href="https://github.com/xcvmxc/marcus-feedback/issues/new?template=feature_request.yml"><img src="https://img.shields.io/badge/Request_a_Feature-FF9F00?style=for-the-badge&logoColor=white" height="56" alt="Request a Feature"></a>
-<a href="https://github.com/xcvmxc/marcus-feedback/issues/new?template=bug_report.yml"><img src="https://img.shields.io/badge/Report_a_Bug-FF9F00?style=for-the-badge&logoColor=white" height="56" alt="Report a Bug"></a>
+- [Landing Page](https://allinc.ai/marcus)
+- [Request a Feature](https://github.com/xcvmxc/marcus-feedback/issues/new?template=feature_request.yml)
+- [Report a Bug](https://github.com/xcvmxc/marcus-feedback/issues/new?template=bug_report.yml)
 
 Marcus Sync lives in your menu bar and syncs Apple Reminders to any Markdown file — perfect for Obsidian, Logseq, or any text-based productivity system.
 
