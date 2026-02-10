@@ -15,33 +15,3 @@ body:
       placeholder: "I wish Marcus could..."
     validations:
       required: true
-
-  - type: textarea
-    id: solution
-    attributes:
-      label: Describe your ideal solution
-      description: How would this work from a user's perspective?
-    validations:
-      required: true
-
-  - type: dropdown
-    id: area
-    attributes:
-      label: Area
-      options:
-        - Sync behavior
-        - Output format
-        - Settings / UI
-        - Menu bar
-        - Onboarding
-        - Other
-    validations:
-      required: false
-
-  - type: textarea
-    id: extra
-    attributes:
-      label: Additional context
-      description: Screenshots, mockups, or references to similar features.
-    validations:
-      required: false
